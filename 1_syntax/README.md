@@ -348,7 +348,7 @@ end
 ## Proc and Lambda
 
 Proc is a block of code that can be store in a variable and pass into a method or another proc.
-We can create proc in 2 favors: `proc` vs `lamdbda`
+We can create proc in 2 favors: `proc` vs `lambda`
 
 ```ruby
 # we can declare a lambda
